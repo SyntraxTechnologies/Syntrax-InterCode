@@ -1,6 +1,10 @@
 # Syntrax-InterCode
 
-Syntrax InterCode is the most compatable and open source IDE.
+Syntrax InterCode is a simple and compatible IDE that can handle many different langauges. 
 
-**Warning, Still in very early alpha**
+**Minimum requirements**
+- Windows XP or Higher
+- .NET 4.0
+
+
 
